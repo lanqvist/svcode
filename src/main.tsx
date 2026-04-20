@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { TodoList } from './TodoList'
+import { Button } from './Button'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <TodoList />
+    <Button />
   </React.StrictMode>,
 )
