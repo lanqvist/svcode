@@ -1,0 +1,3 @@
+{
+  "prompt": "Create a todo list application with the following features:\n- Header with app title\n- Input field to add new tasks\n- List of tasks with checkboxes\n- Delete button for each task\n- Filter buttons: All / Active / Completed\n\nUse functional components and CSS styling."
+}
