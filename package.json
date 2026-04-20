@@ -1,5 +1,5 @@
 {
-  "name": "a-simple-todo-list-with-add-and-delete-buttons",
+  "name": "a-simple-counter-app-with-increment",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
